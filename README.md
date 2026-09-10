@@ -25,4 +25,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=kunal04d&icon=3&color=6)](https://visitcount.itsvg.in)
 
+[![Kunal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal04d)](https://github.com/kunal04d)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
